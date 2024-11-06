@@ -31,7 +31,7 @@ To run this app locally or contribute to its development:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/reelview.git
+    git clone https://github.com/navyaraina/reelview.git
     cd reelview
     ```
 
